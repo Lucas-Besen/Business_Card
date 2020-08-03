@@ -15,25 +15,46 @@
         
           background-color:#666666;   
         }   
-        img{
-          border-radius:5%;
-          width:60%;
-          height:60%;         
-        }
-        #centro {
-          position:absolute;
-          top: 10%;
-          left:75%;   
-        }
+    
         .retangulo{
           width: 80%;
-          height: 70%;
+          height: 600px;
           background-color: #ffffff;
           position: absolute;
-          top: 25%;
+          top: 15%;
           right: 15%;
         }
+        .posicaoimg {
+
+          position: absolute;
+          top: 5%; 
+          left:75%;
+        }
+        .posicaotexto{
+          position: absolute;
+          top:17%;
+          right:25%;    
+          left:7%;
+        }
+         .posicaotitulo{
+          position: absolute;
+          top:5%;
+          right:30%;    
+          left:7%;
+        }
+        img{
+          border-radius: 50%;
+          width:100%;
+          height:100%;
+        
+          
+        }
+        #linha {
+          width: 100%;
+          border-bottom: 1px solid #000000;
+        }
       </style>
+      <title>Quem sou eu</title>
   </head>
   <body>
     <div class="container">
