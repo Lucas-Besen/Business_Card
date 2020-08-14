@@ -9,52 +9,8 @@
       <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Trade+Winds&display=swap" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="icons/font.css">
-      <link rel="stylesheet" type="text/css" href="icons/main.css">
-      <style>
-        body{
-        
-          background-color:#666666;   
-        }   
-    
-        .retangulo{
-          width: 80%;
-          height: 600px;
-          background-color: #ffffff;
-          position: absolute;
-          top: 15%;
-          right: 15%;
-        }
-        .posicaoimg {
-
-          position: absolute;
-          top: 5%; 
-          left:75%;
-        }
-        .posicaotexto{
-          position: absolute;
-          top:17%;
-          right:25%;    
-          left:7%;
-        }
-         .posicaotitulo{
-          position: absolute;
-          top:5%;
-          right:30%;    
-          left:7%;
-        }
-        img{
-          border-radius: 50%;
-          width:100%;
-          height:100%;
-        
-          
-        }
-        #linha {
-          width: 100%;
-          border-bottom: 1px solid #000000;
-        }
-      </style>
-      <title>Quem sou eu</title>
-  </head>
+      <link rel="stylesheet" type="text/css" href="icons/bar.css">
+      <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <?php include_once("style.php"); ?>
   <body>
     <div class="container">
