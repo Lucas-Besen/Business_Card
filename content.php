@@ -4,7 +4,7 @@
 	<img src="photo/ProfileImage.jpg" >
 </div>
 
-<font size="5" class="posicaotitulo" align="center" >Quem sou eu ?</font>
+<h4 class="posicaotitulo" align="center">Quem sou eu ?</h4>
 
 <div class=" posicaotexto">
 	<p>
