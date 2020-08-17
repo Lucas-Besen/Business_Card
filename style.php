@@ -2,7 +2,7 @@
 		body{
 		    background-color:#000000;
 		    font-family: 'Libre Baskerville', serif;
-		    font-size: 14px;   
+		    font-size: 18px;   
 		}   
 	 	.posicaoimg {
 	        position: absolute;
@@ -29,7 +29,7 @@
 	        left:10%;
 	    }      
 	    #fontes{
-	        font-size: 14px;
+	        font-size: 18px;
 	    }     
 	    a:hover { 
 	        color: #000000;

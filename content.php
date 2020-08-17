@@ -4,7 +4,7 @@
 	<img src="photo/ProfileImage.jpg" >
 </div>
 
-<h4 class="posicaotitulo" align="center">Quem sou eu ?</h4>
+<h3 class="posicaotitulo" align="center">Quem sou eu ?</h3>
 
 <div class=" posicaotexto">
 	<p>
@@ -18,12 +18,12 @@
 	</p>
 	<br>
 	<br>
-	<a href="documents/CartaDeIntencao_lucas.pdf" target="_blank">
-		<button type="button" id="fontes" class="btn btn-outline-light btn-lg btn-block">Carta de intenção</button>
-	</a>
-	<br>
 	<a href="documents/Curriculo_LucasBesen.pdf" target="_blank">
 		<button type="button" id="fontes" class="btn btn-outline-light btn-lg btn-block">Currículo</button>
+	</a>
+	<br>
+	<a href="documents/CartaDeIntencao_lucas.pdf" target="_blank">
+		<button type="button" id="fontes" class="btn btn-outline-light btn-lg btn-block">Carta de intenção</button>
 	</a>
 	<br>
 	<br>
