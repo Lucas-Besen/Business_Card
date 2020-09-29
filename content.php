@@ -8,14 +8,13 @@
 
 <div class=" posicaotexto">
 	<p>
-		Meu nome é Lucas André Besen tenho 21 anos e atualmente estou cursando Engenharia da Computação.
+		Meu nome é Lucas André Besen tenho 21 anos e estou cursando Engenharia da Computação. Fiz meu ensino médio em escola pública onde o ensino era fraco, ao entrar na faculdade percebi que havia conteúdos que eu não tinha visto e de acordo com meus professores da faculdade esses conteúdos deveriam ser passados no ensino médio.	
 	</p>
 	<p>
-		Fiz meu ensino médio em escola pública onde o ensino não era dos mais satisfatórios, quando entrei na faculdade percebi que tinham coisas que eu não tinha nem se quer visto muito menos aprendido em comparação aos meus colegas. O 1° semestre foi o mais difícil pois tive que aprender coisas básicas que de acordo com meus professores deveriam ser passadas no ensino médio, por este motivo tive que me dedicar muito mais para poder agregar todo o conhecimento possível para que lá na frente não houvesse tantas dificuldades em meu aprendizado como foi no 1° semestre, e com muito esforço e dedicação eu consegui, e foi aí que percebi que a faculdade te ensina a base e faz você ficar com curiosidade e ir além, a partir desse momento comecei a estudar programação por conta própria, sempre ficava pesquisando, vendo vídeos aulas, buscando além daquilo que era me passado em sala de aula, daí em diante cresceu em mim uma paixão imensa por programação. 
+		Consequentemente o 1° semestre foi o mais complicado, mas consegui compensar com muito esforço e dedicação, estudando por conta própria, pesquisando, vendo vídeo aulas, e foi aí que percebi que a faculdade te ensina a base e faz você ficar com curiosidade e ir além, daí em diante cresceu em mim uma paixão imensa por programação.
 	</p>
 	<p>
-		Sou uma pessoa que tem bom relacionamento com as pessoas, gosto de novas experiências e desafios, busco aprendizagem em tudo aquilo que faço e procuro sempre manter meu aprendizado constante, tenho determinação e capacidade de adaptação.
-	</p>
+		Tenho bom relacionamento com as pessoas, gosto de novas experiências e desafios, busco aprendizagem em tudo aquilo que faço e estou em constante evolução, tenho determinação e capacidade de adaptação.	</p>
 	<br>
 	<br>
 	<a href="documents/Curriculo_LucasAndreBesen.pdf" target="_blank">
