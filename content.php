@@ -18,7 +18,7 @@
 	</p>
 	<br>
 	<br>
-	<a href="documents/Curriculo_LucasBesen.pdf" target="_blank">
+	<a href="documents/Curriculo_LucasAndreBesen.pdf" target="_blank">
 		<button type="button" id="fontes" class="btn btn-outline-light btn-lg btn-block">Currículo</button>
 	</a>
 	<br>

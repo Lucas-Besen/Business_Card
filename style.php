@@ -11,8 +11,8 @@
 	    }
 	    img{
 	    	border-radius: 50%;
-	    	width:80%;
-	        height:80%;
+	    	width:75%;
+	        height:75%;
 	    }
 	    .posicaotitulo{
 	        color:#ffffff;
